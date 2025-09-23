@@ -1,0 +1,6 @@
+[submodule "PyNNcml"]
+	path = PyNNcml
+	url = https://github.com/haihabi/PyNNcml
+[submodule "pycomlink"]
+	path = pycomlink
+	url = https://github.com/pycomlink/pycomlink
