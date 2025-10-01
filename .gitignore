@@ -213,3 +213,5 @@ __marimo__/
 
 # Data instaled by Poligrain
 example_data    
+# cached tensorflow cnn model 
+model_cnn
